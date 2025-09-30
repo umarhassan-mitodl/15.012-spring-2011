@@ -34,6 +34,7 @@
     "website": "15-012-applied-macro-and-international-economics-spring-2011"
   },
   "course_title": "Applied Macro- and International Economics",
+  "hide_download": true,
   "course_description": "_15.012 Applied Macro- and International Economics_ uses case studies to investigate the macroeconomic environment in which firms operate. The first half of the course develops the basic tools of macroeconomic management: monetary, fiscal, and exchange rate policy. The class discusses recent emerging market and financial crises by examining their causes and considering how best to address them and prevent them from recurring in the future. The second half evaluates different strategies of economic development. Topics covered in the second half of this course include growth, the role of debt and foreign aid, and the reliance on natural resources.\n",
   "department_numbers": [
     "15"
@@ -44,6 +45,7 @@
     "content": "f0359461-34de-21e5-20fe-d8d6bff5367a",
     "website": "15-012-applied-macro-and-international-economics-spring-2011"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Activity Assignments with Examples"
