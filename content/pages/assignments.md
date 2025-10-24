@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a short individual assignment and information on
   the in-class course debates.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
